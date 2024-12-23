@@ -1,0 +1,4 @@
+.DS_Store
+/text_data/output_btc.csv
+/text_data/output_eth.csv
+/text_data/eth_corpus.csv

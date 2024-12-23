@@ -1,0 +1,382 @@
+data,block_timestamp
+b'signal for today is 75% btc / 25% usd',2015-06-27 19:50:11
+b'signal for today is 100% btc / 0% usd',2015-06-28 20:11:43
+b'signal for today is 100% btc / 0% usd',2015-06-29 19:41:09
+b'signal for today is 100% btc / 0% usd',2015-06-30 19:34:07
+b'signal for today is 100% btc / 0% usd',2015-07-01 23:06:09
+b'signal for today 100% btc / 0% usd',2015-07-02 19:26:41
+b'signal for today is 100% btc / 0% usd',2015-07-03 19:44:49
+b'signal for today is 100% btc / 0% usd',2015-07-04 21:10:31
+b'signal for today is 100% btc / 0% usd',2015-07-05 22:45:33
+b'signal for today is 100% btc / 0% usd',2015-07-06 20:31:34
+b'signal for today is 100% btc / 0% usd',2015-07-07 20:19:20
+b'signal for today is 100% btc / 0% usd',2015-07-08 19:45:38
+b'signal for today is 100% btc / 0% usd',2015-07-09 19:30:13
+b'signal for today is 100% btc / 0% usd',2015-07-11 00:15:48
+b'signal for today is 100% btc / 0% usd',2015-07-11 00:58:00
+b'signal for today is 100% btc / 0% usd',2015-07-11 19:36:12
+b'signal for today is 75% btc / 25% usd',2015-07-12 19:40:36
+b'signal for today is 100% btc / 0% usd',2015-07-13 21:19:55
+b'signal for today is 100% btc / 0% usd',2015-07-14 19:47:29
+b'signal for today is 100% btc / 0% usd',2015-07-15 19:47:24
+b'signal for today is 100% btc / 0% usd',2015-07-16 19:38:38
+b'signal for today is 100% btc / 0% usd',2015-07-17 19:49:05
+b'signal for today is 75% btc / 25% usd',2015-07-18 19:33:44
+b'signal for today is 75% btc / 25% usd',2015-07-19 21:16:52
+b'signal for today is 100% btc / 0% usd',2015-07-20 19:50:49
+b'signal for today is 100% btc / 0% usd',2015-07-21 19:43:02
+b'signal for today is 100% btc / 0% usd',2015-07-22 20:03:16
+b'signal for today is 100% btc / 0% usd',2015-07-23 19:49:07
+b'signal for today is 100% btc / 0% usd',2015-07-24 20:23:33
+b'signal for today is 100% btc / 0% usd',2015-07-25 22:30:36
+b'signal for today is 100% btc / 0% usd',2015-07-26 19:30:54
+b'signal for today is 100% btc / 0% usd',2015-07-27 19:58:20
+b'signal for today is 100% btc / 0% usd',2015-07-28 19:36:24
+b'signal for today is 100% btc / 0% usd',2015-07-30 01:36:08
+b'signal for today is 100% btc / 0% usd',2015-07-30 20:02:34
+b'signal for today is 100% btc / 0% usd',2015-07-31 20:19:13
+b'signal for today is 50% btc / 50% usd',2015-08-01 19:35:13
+b'signal for today is 25% btc / 75% usd',2015-08-02 19:48:09
+b'signal for today is 25% btc / 75% usd',2015-08-03 19:44:17
+b'signal for today is 75% btc / 25% usd',2015-08-04 19:45:57
+b'signal for today is 75% btc / 25% usd',2015-08-05 19:36:18
+b'signal for today is 25 % btc / 75 % usd',2015-08-06 19:44:38
+b'signal for today is  % btc /  % usd',2015-08-07 09:49:33
+b'signal for today is 25 % btc / 75 % usd',2015-08-08 12:40:49
+b'signal for today is 100 % btc / 0 % usd',2015-08-08 19:37:22
+b'signal for today is 0 % btc / 100 % usd',2015-08-09 01:46:39
+b'signal for today is 0 % btc / 100 % usd',2015-08-09 19:41:18
+b'signal for today is  % btc /  % usd',2015-08-10 19:31:08
+b'signal for today is  0% btc / 100% usd',2015-08-10 19:47:39
+b'signal for today is 0 % btc / 100 % usd',2015-08-11 19:36:45
+b'signal for today is 0 % btc / 100 % usd',2015-08-11 20:21:03
+b'signal for today is 0 % btc / 100 % usd',2015-08-12 19:34:34
+b'signal for today is 0 % btc / 100 % usd',2015-08-13 19:32:08
+b'signal for today is 0 % btc / 100 % usd',2015-08-14 19:41:05
+b'signal for today is 0 % btc / 100 % usd',2015-08-15 19:37:40
+b'signal for today is 0 % btc / 100 % usd',2015-08-16 20:01:13
+b'signal for today is 0 % btc / 100 % usd',2015-08-17 19:33:07
+b'signal for today is 0 % btc / 100 % usd',2015-08-18 19:32:26
+b'signal for today is 0 % btc / 100 % usd',2015-08-19 19:40:14
+b'signal for today is 0 % btc / 100 % usd',2015-08-20 19:40:01
+b'signal for today is 0 % btc / 100 % usd',2015-08-22 00:49:43
+b'signal for today is 0 % btc / 100 % usd',2015-08-22 19:31:28
+b'signal for today is 0 % btc / 100 % usd',2015-08-23 19:34:17
+b'signal for today is 0 % btc / 100 % usd',2015-08-24 19:35:54
+b'signal for today is 0 % btc / 100 % usd',2015-08-25 19:49:57
+b'signal for today is 0 % btc / 100 % usd',2015-08-26 19:54:34
+b'signal for today is 0 % btc / 100 % usd',2015-08-27 19:53:51
+b'august/31/2015 signal for today is 0 % b',2015-08-28 20:14:59
+b'signal for today is 0 % btc / 100 % usd',2015-08-28 20:14:59
+b'thursday august/28/2015 - signal for today is 0% btc /100% usd test',2015-08-28 20:32:05
+"b'saturday, august/31/2015 - signal for today is 25 % btc / 75 % usd'",2015-08-29 19:46:42
+"b'saturday, august/29/2015 - signal for today is 25 % btc / 75 % usd'",2015-08-29 20:46:20
+"b'sunday, august/30/2015 - signal for today is 25 % btc / 75 % usd'",2015-08-30 19:37:02
+"b'sunday, august/30/2015 - signal for today is 0 % btc / 100 % usd'",2015-08-30 20:15:48
+"b'saturday, august/30/2015 - signal for today is 0 % btc / 100 % usd'",2015-08-30 20:15:48
+"b'monday, august/31/2015 - signal for today is 25 % btc / 75 % usd'",2015-08-31 19:35:35
+"b'tuesday, september/01/2015 - signal for today is 25 % btc / 75 % usd'",2015-09-01 19:41:58
+"b'tuesday, september/01/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-01 21:31:24
+"b'wednesday, september/02/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-02 19:32:41
+"b'thursday, september/03/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-03 19:50:54
+"b'friday, september/04/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-04 20:54:36
+"b'saturday, september/05/2015 - signal for today is 25 % btc / 75 % usd'",2015-09-05 19:32:09
+"b'sunday, september/06/2015 - signal for today is 50 % btc / 50 % usd'",2015-09-06 19:31:45
+"b'monday, september/07/2015 - signal for today is 100 % btc / 0 % usd'",2015-09-07 20:03:02
+"b'tuesday, september/08/2015 - signal for today is 100 % btc / 0 % usd'",2015-09-08 19:41:38
+"b'wednesday, september/09/2015 - signal for today is 100 % btc / 0 % usd'",2015-09-09 19:35:47
+"b'thursday, september/10/2015 - signal for today is 100 % btc / 0 % usd'",2015-09-10 19:56:09
+"b'friday, september/11/2015 - signal for today is 100 % btc / 0 % usd'",2015-09-11 20:01:50
+"b'saturday, september/12/2015 - signal for today is 75 % btc / 25 % usd'",2015-09-12 19:32:25
+"b'sunday, september/13/2015 - signal for today is 50 % btc / 50 % usd'",2015-09-13 19:38:20
+"b'monday, september/14/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-14 20:11:06
+"b'tuesday, september/15/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-15 19:34:49
+"b'wednesday, september/16/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-16 19:50:22
+"b'thursday, september/17/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-17 19:37:16
+"b'friday, september/18/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-18 19:34:47
+"b'saturday, september/19/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-19 19:35:24
+"b'sunday, september/20/2015 - signal for today is 25 % btc / 75 % usd'",2015-09-20 19:32:44
+"b'monday, september/21/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-21 19:46:48
+"b'tuesday, september/22/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-22 19:53:20
+"b'wednesday, september/23/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-23 19:40:19
+"b'thursday, september/24/2015 - signal for today is 0 % btc / 100 % usd'",2015-09-24 20:08:05
+"b'friday, september/25/2015- signal for today is 25% btc / 75% usd :smart2'",2015-09-25 19:38:44
+"b'saturday, september/26/2015- signal for today is 25% btc / 75% usd :smart2'",2015-09-26 19:44:17
+"b'sunday, september/27/2015- signal for today is 75% btc / 25% usd :'",2015-09-27 19:55:17
+"b'monday, september/28/2015- signal for today is 100% btc / 0% usd :smart2'",2015-09-28 19:32:54
+"b'tuesday, september/29/2015- signal for today is 100% btc / 0% usd :smart2'",2015-09-29 20:14:41
+"b'wednesday, september/30/2015- signal for today is 100% btc / 0% usd :smart2'",2015-09-30 19:35:43
+"b'thursday, october/01/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-01 21:10:55
+"b'friday, october/02/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-02 19:54:39
+"b'saturday, october/03/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-03 20:59:49
+"b'sunday, october/04/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-04 19:38:14
+"b'monday, october/05/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-05 19:31:22
+"b'tuesday, october/06/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-06 19:56:43
+"b'wednesday, october/06/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-07 23:54:06
+"b'friday, october/09/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-11 16:12:32
+"b'saturday, october/10/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-11 18:15:18
+"b'sunday, october/11/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-11 19:40:53
+"b'monday, october/12/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-12 19:33:56
+"b'tuesday, october/13/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-13 20:17:17
+"b'wednesday, october/14/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-14 19:39:23
+"b'thursday, october/15/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-15 19:49:13
+"b'friday, october/16/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-16 19:38:24
+"b'saturday, october/17/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-17 19:39:43
+"b'sunday, october/18/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-18 19:31:14
+"b'monday, october/19/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-19 20:01:34
+"b'tuesday, october/20/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-20 20:04:46
+"b'wednesday, october/21/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-21 19:30:22
+"b'thursday, october/22/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-22 19:42:14
+"b'friday, october/23/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-23 21:18:23
+"b'saturday, october/24/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-24 19:41:38
+"b'sunday, october/25/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-25 19:49:49
+"b'monday, october/26/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-26 19:46:45
+"b'tuesday, october/27/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-27 20:04:30
+"b'wednesday, october/28/2015- signal for today is 100% btc / 0% usd :smart2'",2015-10-28 19:39:39
+"b'thursday, october/29/2015- signal for today is 50% btc / 50% usd :smart2'",2015-10-29 19:44:30
+"b'""ew "" hex:455720 october/29/2015- signal for today is 50% btc / 50% usd :smart2'",2015-10-29 20:59:54
+"b'friday, october/30/2015- signal for today is 75% btc / 25% usd :smart2'",2015-10-30 19:35:48
+"b'saturday, october/31/2015- signal for today is 75% btc / 25% usd :smart2'",2015-10-31 19:55:44
+"b'sunday, november/01/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-01 20:43:59
+"b'monday, november/02/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-02 19:49:47
+"b'tuesday, november/03/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-03 19:36:40
+"b'wednesday, november/04/2015- signal for today is 50% btc / 50% usd :smart2'",2015-11-04 19:44:35
+"b'thursday, november/05/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-05 19:46:14
+"b'friday, november/06/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-06 19:30:07
+"b'saturday, november/07/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-07 19:33:14
+"b'sunday, november/08/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-08 19:36:33
+"b'monday, november/09/2015- signal for today is 50% btc / 50% usd :smart2'",2015-11-09 19:37:25
+"b'tuesday, november/10/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-10 20:01:45
+"b'wednesday, november/11/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-11 19:36:04
+"b'thursday, november/12/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-12 19:37:11
+"b'friday, november/13/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-13 20:06:32
+"b'saturday, november/14/2015- signal for today is 100% btc / 0% usd :smart2'",2015-11-14 20:11:07
+"b'sunday, november/15/2015- signal for today is 100% btc / 0% usd :smart2'",2015-11-15 19:41:31
+"b'monday, november/16/2015- signal for today is 100% btc / 0% usd :smart2'",2015-11-16 20:00:01
+"b'tuesday, november/17/2015- signal for today is 100% btc / 0% usd :smart2'",2015-11-17 20:32:44
+"b'wednesday, november/18/2015- signal for today is 100% btc / 0% usd :smart2'",2015-11-18 20:11:00
+"b'thursday, november/19/2015- signal for today is 100% btc / 0% usd :smart2'",2015-11-19 19:37:04
+"b'friday, november/20/2015- signal for today is 100% btc / 0% usd :smart2'",2015-11-20 19:37:27
+"b'saturday, november/21/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-21 19:41:58
+"b'sunday, november/22/2015- signal for today is 25% btc / 75% usd :smart2'",2015-11-22 19:48:53
+"b'monday, november/23/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-23 19:34:03
+"b'tuesday, november/24/2015 signal for today is 25% btc / 75% usd :smart2'",2015-11-24 21:59:45
+"b'wednesday, november/25/2015- signal for today is 25% btc / 75% usd :smart2'",2015-11-25 19:54:45
+"b'thursday, november/26/2015- signal for today is 25% btc / 75% usd :smart2'",2015-11-26 19:33:25
+"b'friday, november/27/2015- signal for today is 50% btc / 50% usd :smart2'",2015-11-27 20:09:39
+"b'saturday, november/28/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-28 20:07:16
+"b'sunday, november/29/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-29 20:32:43
+"b'monday, november/30/2015- signal for today is 75% btc / 25% usd :smart2'",2015-11-30 19:48:52
+"b'tuesday, december/01/2015- signal for today is 100% btc / 0% usd :smart2'",2015-12-01 19:31:12
+"b'wednesday, december/02/2015- signal for today is 100% btc / 0% usd :smart2'",2015-12-02 19:36:16
+"b'thursday, december/03/2015- signal for today is 100% btc / 0% usd :smart2'",2015-12-03 19:35:12
+"b'friday, december/04/2015- signal for today is 100% btc / 0% usd :smart2'",2015-12-04 19:31:47
+"b'saturday, december/05/2015- signal for today is 75% btc / 25% usd :smart2'",2015-12-05 19:40:39
+"b'sunday, december/06/2015- signal for today is 25% btc / 75% usd :smart2'",2015-12-06 20:03:44
+"b'monday, december/07/2015- signal for today is 50% btc / 50% usd :smart2'",2015-12-07 19:38:21
+"b'tuesday, december/08/2015- signal for today is 50% btc / 50% usd :smart2'",2015-12-08 19:39:06
+"b'wednesday, december/09/2015 - signal for today is 0 % btc / 100 % usd'",2015-12-09 20:06:21
+"b'thursday, december/10/2015 - signal for today is 0 % btc / 100 % usd'",2015-12-10 19:42:17
+"b'thursday, december/10/2015 - signal for today is 0 % btc / 100 % usd'",2015-12-10 19:47:27
+"b'friday, december/11/2015 - signal for today is 25 % btc / 75 % usd'",2015-12-11 20:11:55
+"b'saturday, december/12/2015 - signal for today is 25 % btc / 75 % usd'",2015-12-12 20:16:34
+"b'sunday, december/13/2015 - signal for today is 25 % btc / 75 % usd'",2015-12-13 20:18:21
+"b'monday, december/14/2015 - signal for today is 25 % btc / 75 % usd'",2015-12-14 20:14:27
+"b'tuesday, december/15/2015 - signal for today is 25 % btc / 75 % usd'",2015-12-15 19:57:20
+"b'wednesday, december/16/2015 - signal for today is 75 % btc / 25 % usd'",2015-12-16 20:39:07
+"b'thursday, december/17/2015 - signal for today is 100 % btc / 0 % usd'",2015-12-17 19:39:49
+"b'friday, december/18/2015 - signal for today is 100 % btc / 0 % usd'",2015-12-18 19:39:45
+"b'saturday, december/19/2015 - signal for today is 100 % btc / 0 % usd'",2015-12-19 19:52:41
+"b'sunday, december/20/2015 - signal for today is 75 % btc / 25 % usd'",2015-12-20 19:33:43
+"b'monday, december/21/2015 - signal for today is 25 % btc / 75 % usd'",2015-12-21 20:02:18
+"b'tuesday, december/22/2015 - signal for today is 25 % btc / 75 % usd'",2015-12-22 20:09:20
+"b'wednesday, december/23/2015 - signal for today is 50 % btc / 50 % usd'",2015-12-23 20:04:33
+"b'thursday, december/24/2015 - signal for today is 25 % btc / 75 % usd'",2015-12-24 19:55:14
+"b'friday, december/25/2015 - signal for today is 50 % btc / 50 % usd'",2015-12-25 19:31:18
+"b'saturday, december/26/2015 - signal for today is 50 % btc / 50 % usd'",2015-12-26 19:39:44
+"b'sunday, december/27/2015 - signal for today is 50 % btc / 50 % usd'",2015-12-27 19:36:00
+"b'monday, december/28/2015 - signal for today is 50 % btc / 50 % usd'",2015-12-28 19:34:52
+"b'monday, december/28/2015 - signal for today is 50 % btc / 50 % usd'",2015-12-28 20:19:22
+"b'tuesday, december/29/2015 - signal for today is 50 % btc / 50 % usd'",2015-12-29 19:31:28
+"b'wednesday, december/30/2015 - signal for today is 25 % btc / 75 % usd'",2015-12-30 19:50:47
+"b'thursday, december/31/2015 - signal for today is 50 % btc / 50 % usd'",2015-12-31 19:35:44
+"b'friday, january/01/2016 - signal for today is 75 % btc / 25 % usd'",2016-01-01 20:01:30
+"b'saturday, january/02/2016 - signal for today is 75 % btc / 25 % usd'",2016-01-02 19:36:58
+"b'sunday, january/03/2016 - signal for today is 75 % btc / 25 % usd'",2016-01-03 19:48:18
+"b'monday, january/04/2016 - signal for today is 50 % btc / 50 % usd'",2016-01-04 19:30:34
+"b'tuesday, january/05/2016 - signal for today is 75 % btc / 25 % usd'",2016-01-05 19:37:39
+"b'wednesday, january/06/2016 - signal for today is 75 % btc / 25 % usd'",2016-01-06 19:33:57
+"b'thursday, january/07/2016 - signal for today is 50 % btc / 50 % usd'",2016-01-07 19:33:01
+"b'friday, january/08/2016 - signal for today is 100 % btc / 0 % usd'",2016-01-08 19:43:08
+"b'saturday, january/09/2016 - signal for today is 100 % btc / 0 % usd'",2016-01-09 19:41:52
+"b'sunday, january/10/2016 - signal for today is 100 % btc / 0 % usd'",2016-01-10 19:33:36
+"b'monday, january/11/2016 - signal for today is 100 % btc / 0 % usd'",2016-01-11 19:40:22
+"b'tuesday, january/12/2016 - signal for today is 100 % btc / 0 % usd'",2016-01-12 19:51:41
+"b'wednesday, january/13/2016 - signal for today is 75 % btc / 25 % usd'",2016-01-13 19:37:14
+"b'thursday, january/14/2016 - signal for today is 50 % btc / 50 % usd'",2016-01-14 19:45:35
+"b'friday, january/15/2016 - signal for today is 50 % btc / 50 % usd'",2016-01-15 19:36:46
+"b'saturday, january/16/2016 - signal for today is 50 % btc / 50 % usd'",2016-01-16 19:30:56
+"b'sunday, january/17/2016 - signal for today is 50 % btc / 50 % usd'",2016-01-17 19:44:20
+"b'monday, january/18/2016 - signal for today is 25 % btc / 75 % usd'",2016-01-18 19:32:13
+"b'tuesday, january/19/2016 - signal for today is 0 % btc / 100 % usd'",2016-01-19 19:38:17
+"b'wednesday, january/20/2016 - signal for today is 0 % btc / 100 % usd'",2016-01-20 19:33:53
+"b'thursday, january/21/2016 - signal for today is 25 % btc / 75 % usd'",2016-01-21 19:45:32
+"b'friday, january/22/2016 - signal for today is 25 % btc / 75 % usd'",2016-01-22 21:20:08
+"b'saturday, january/23/2016 - signal for today is 25 % btc / 75 % usd'",2016-01-23 19:40:37
+"b'sunday, january/24/2016 - signal for today is 0 % btc / 100 % usd'",2016-01-24 19:39:18
+"b'monday, january/25/2016 - signal for today is 0 % btc / 100 % usd'",2016-01-25 19:51:39
+"b'tuesday, january/26/2016 - signal for today is 0 % btc / 100 % usd'",2016-01-26 19:33:28
+"b'wednesday, january/27/2016 - signal for today is 25 % btc / 75 % usd'",2016-01-27 19:50:22
+"b'thursday, january/28/2016 - signal for today is 0 % btc / 100 % usd'",2016-01-28 19:30:30
+"b'friday, january/29/2016 - signal for today is 0 % btc / 100 % usd'",2016-01-29 19:30:34
+"b'saturday, january/30/2016 - signal for today is 0 % btc / 100 % usd'",2016-01-30 19:32:31
+"b'sunday, january/31/2016 - signal for today is 0 % btc / 100 % usd'",2016-01-31 19:48:03
+"b'monday, february/01/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-01 19:48:20
+"b'tuesday, february/02/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-02 19:41:18
+"b'wednesday, february/03/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-03 19:31:12
+"b'thursday, february/04/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-04 19:37:13
+"b'friday, february/05/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-05 19:36:14
+"b'saturday, february/06/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-06 19:31:17
+"b'sunday, february/07/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-07 19:32:44
+"b'monday, february/08/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-08 23:07:21
+"b'tuesday, february/09/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-09 19:32:45
+"b'wednesday, february/10/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-10 19:36:47
+"b'thursday, february/11/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-11 19:38:15
+"b'thursday, february/11/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-11 20:19:20
+"b'friday, february/12/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-12 19:31:14
+"b'saturday, february/13/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-13 19:34:15
+"b'sunday, february/14/2016 - signal for today is 0 % btc / 100 % usd'",2016-02-14 19:38:53
+"b'monday, february/15/2016 - signal for today is 50 % btc / 50 % usd'",2016-02-15 19:31:34
+"b'tuesday, february/16/2016 - signal for today is 50 % btc / 50 % usd'",2016-02-16 19:37:03
+"b'wednesday, february/17/2016 - signal for today is 75 % btc / 25 % usd'",2016-02-17 19:31:05
+"b'thursday, february/18/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-18 19:34:36
+"b'friday, february/19/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-19 19:37:15
+"b'saturday, february/20/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-20 19:31:10
+"b'sunday, february/21/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-21 19:30:32
+"b'monday, february/22/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-22 19:31:32
+"b'tuesday, february/23/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-23 19:31:05
+"b'wednesday, february/24/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-24 19:36:45
+"b'thursday, february/25/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-25 20:11:55
+"b'friday, february/26/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-26 19:32:10
+"b'saturday, february/27/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-27 19:35:32
+"b'sunday, february/28/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-28 19:30:49
+"b'monday, february/29/2016 - signal for today is 100 % btc / 0 % usd'",2016-02-29 20:32:26
+"b'tuesday, march/01/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-01 19:49:21
+"b'wednesday, march/02/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-02 19:32:56
+"b'thursday, march/03/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-03 19:45:13
+"b'friday, march/04/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-04 19:32:33
+"b'saturday, march/05/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-05 19:32:47
+"b'sunday, march/06/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-06 19:40:47
+"b'monday, march/07/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-07 19:44:57
+"b'tuesday, march/08/2016 - signal for today is 75 % btc / 25 % usd'",2016-03-08 20:08:59
+"b'wednesday, march/09/2016 - signal for today is 75 % btc / 25 % usd'",2016-03-09 19:37:14
+"b'thursday, march/10/2016 - signal for today is 75 % btc / 25 % usd'",2016-03-10 19:34:22
+"b'friday, march/11/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-11 19:31:35
+"b'saturday, march/12/2016 - signal for today is 75 % btc / 25 % usd'",2016-03-12 19:45:45
+"b'sunday, march/13/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-13 19:36:08
+"b'monday, march/14/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-14 19:35:23
+"b'tuesday, march/15/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-15 22:04:18
+"b'wednesday, march/16/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-16 19:34:05
+"b'thursday, march/17/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-17 19:38:17
+"b'friday, march/18/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-18 19:32:38
+"b'saturday, march/19/2016 - signal for today is 25 % btc / 75 % usd'",2016-03-19 19:32:26
+"b'sunday, march/20/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-20 19:53:42
+"b'monday, march/21/2016 - signal for today is 25 % btc / 75 % usd'",2016-03-21 19:49:06
+"b'tuesday, march/22/2016 - signal for today is 25 % btc / 75 % usd'",2016-03-22 19:38:16
+"b'wednesday, march/23/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-23 19:49:23
+"b'thursday, march/24/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-24 19:34:18
+"b'friday, march/25/2016 - signal for today is 50 % btc / 50 % usd'",2016-03-25 19:35:12
+"b'saturday, march/26/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-26 21:31:36
+"b'sunday, march/27/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-27 20:45:05
+"b'monday, march/28/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-28 19:33:49
+"b'tuesday, march/29/2016 - signal for today is 100 % btc / 0 % usd'",2016-03-29 20:07:29
+"b'wednesday, march/30/2016 - signal for today is 75 % btc / 25 % usd'",2016-03-30 19:32:24
+"b'thursday, march/31/2016 - signal for today is 75 % btc / 25 % usd'",2016-03-31 19:54:39
+"b'friday, april/01/2016 - signal for today is 25 % btc / 75 % usd'",2016-04-01 19:30:48
+"b'saturday, april/02/2016 - signal for today is 25 % btc / 75 % usd'",2016-04-02 19:41:56
+"b'sunday, april/03/2016 - signal for today is 50 % btc / 50 % usd'",2016-04-03 19:37:56
+"b'monday, april/04/2016 - signal for today is 75 % btc / 25 % usd'",2016-04-04 19:32:23
+"b'tuesday, april/05/2016 - signal for today is 75 % btc / 25 % usd'",2016-04-05 19:45:57
+"b'wednesday, april/06/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-06 19:30:38
+"b'thursday, april/07/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-07 19:34:50
+"b'friday, april/08/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-08 19:36:40
+"b'saturday, april/09/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-09 19:46:32
+"b'sunday, april/10/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-10 19:34:05
+"b'monday, april/11/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-11 19:46:22
+"b'monday, april/11/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-11 21:06:52
+"b'monday, april/11/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-11 21:06:52
+"b'tuesday, april/12/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-12 19:31:46
+"b'wednesday, april/13/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-13 19:30:24
+"b'thursday, april/14/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-14 19:32:02
+"b'friday, april/15/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-15 19:30:45
+"b'saturday, april/16/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-16 19:39:48
+"b'sunday, april/17/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-17 19:32:29
+"b'monday, april/18/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-18 19:35:07
+"b'tuesday, april/19/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-19 19:43:37
+"b'wednesday, april/20/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-20 19:32:03
+"b'thursday, april/21/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-21 19:35:06
+"b'thursday, april/21/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-21 19:53:00
+"b'thursday, april/21/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-21 20:15:36
+"b'thursday, april/21/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-21 20:15:36
+"b'friday, april/22/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-22 19:51:25
+"b'saturday, april/23/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-23 19:35:18
+"b'sunday, april/24/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-24 19:38:03
+"b'monday, april/25/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-25 19:44:20
+"b'tuesday, april/26/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-26 19:31:49
+"b'wednesday, april/27/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-27 19:38:07
+"b'thursday, april/28/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-28 19:33:27
+"b'friday, april/29/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-29 19:40:17
+"b'saturday, april/30/2016 - signal for today is 100 % btc / 0 % usd'",2016-04-30 19:34:39
+"b'sunday, may/01/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-01 19:31:58
+"b'monday, may/02/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-02 19:32:52
+"b'tuesday, may/03/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-03 19:39:55
+"b'wednesday, may/04/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-04 19:53:28
+"b'thursday, may/05/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-05 19:30:44
+"b'friday, may/06/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-06 19:36:18
+"b'saturday, may/07/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-07 19:53:47
+"b'sunday, may/08/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-08 19:37:51
+"b'monday, may/09/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-09 19:38:25
+"b'tuesday, may/10/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-10 19:38:21
+"b'wednesday, may/11/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-11 20:02:33
+"b'thursday, may/12/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-12 19:51:36
+"b'friday, may/13/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-13 19:44:27
+"b'saturday, may/14/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-14 19:39:53
+"b'sunday, may/15/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-15 19:55:41
+"b'monday, may/16/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-16 19:43:18
+"b'tuesday, may/17/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-17 19:38:54
+"b'wednesday, may/18/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-18 19:38:03
+"b'thursday, may/19/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-19 21:13:13
+"b'friday, may/20/2016 - signal for today is 75 % btc / 25 % usd'",2016-05-20 19:48:53
+"b'saturday, may/21/2016 - signal for today is 25 % btc / 75 % usd'",2016-05-21 19:32:59
+"b'sunday, may/22/2016 - signal for today is 0 % btc / 100 % usd'",2016-05-22 19:39:51
+"b'monday, may/23/2016 - signal for today is 0 % btc / 100 % usd'",2016-05-23 19:39:37
+"b'tuesday, may/24/2016 - signal for today is 0 % btc / 100 % usd'",2016-05-24 20:21:32
+"b'wednesday, may/25/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-25 19:35:45
+"b'thursday, may/26/2016 - signal for today is 0 % btc / 100 % usd'",2016-05-26 19:38:56
+"b'friday, may/27/2016 - signal for today is 50 % btc / 50 % usd'",2016-05-27 19:44:08
+"b'saturday, may/28/2016 - signal for today is 0 % btc / 100 % usd'",2016-05-28 19:31:17
+"b'sunday, may/29/2016 - signal for today is 50 % btc / 50 % usd'",2016-05-29 19:32:47
+"b'monday, may/30/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-30 19:32:21
+"b'tuesday, may/31/2016 - signal for today is 100 % btc / 0 % usd'",2016-05-31 19:38:52
+"b'wednesday, june/01/2016 - signal for today is 100 % btc / 0 % usd'",2016-06-01 19:50:24
+"b'thursday, june/02/2016 - signal for today is 100 % btc / 0 % usd'",2016-06-02 20:01:43
+"b'friday, june/03/2016 - signal for today is 100 % btc / 0 % usd'",2016-06-03 19:41:41
+"b'saturday, june/04/2016 - signal for today is 100 % btc / 0 % usd'",2016-06-04 19:39:04
+"b'sunday, june/05/2016 - signal for today is 100 % btc / 0 % usd'",2016-06-05 19:31:42
+"b'monday, june/06/2016 - signal for today is 100 % btc / 0 % usd'",2016-06-06 20:01:23
+"b'tuesday, june/07/2016 - signal for today is 100 % btc / 0 % usd'",2016-06-07 19:39:19
+"b'wednesday, june/08/2016 - signal for today is 75 % btc / 25 % usd'",2016-06-08 19:42:54
+"b'thursday, june/09/2016 - signal for today is 50 % btc / 50 % usd'",2016-06-09 19:53:37
+"b'friday, june/10/2016 - signal for today is 75 % btc / 25 % usd'",2016-06-10 19:30:56
+"b'saturday, june/11/2016 - signal for today is 100 % btc / 0 % usd'",2016-06-11 19:36:45
+"b'sunday, june/12/2016 - signal for today is 75 % btc / 25 % usd'",2016-06-12 19:32:04
+"b'monday, june/13/2016 - signal for today is 50 % btc / 50 % usd'",2016-06-13 19:30:45
+"b'tuesday, june/14/2016 - signal for today is 50 % btc / 50 % usd'",2016-06-14 19:32:29
+"b'wednesday, june/15/2016 - signal for today is 50 % btc / 50 % usd'",2016-06-15 20:46:43
+"b'thursday, june/16/2016 - signal for today is 50 % btc / 50 % usd'",2016-06-16 19:56:23
+"b'friday, june/17/2016 - signal for today is 25 % btc / 75 % usd'",2016-06-17 19:30:23
+"b'saturday, june/18/2016 - signal for today is 50 % btc / 50 % usd'",2016-06-18 20:09:50
+"b'sunday, june/19/2016 - signal for today is 50 % btc / 50 % usd'",2016-06-19 19:33:06
+"b'monday, june/20/2016 - signal for today is 50 % btc / 50 % usd'",2016-06-20 19:48:29
+"b'tuesday, june/21/2016 - signal for today is 50 % btc / 50 % usd'",2016-06-21 19:40:17
+"b'wednesday, june/22/2016 - signal for today is 25 % btc / 75 % usd'",2016-06-22 22:30:50
